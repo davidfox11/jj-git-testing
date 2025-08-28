@@ -1,0 +1,10 @@
+hello world
+
+This is a sample message below the main commit message
+
+JJ: This commit contains the following changes:
+JJ:     A .gitignore
+JJ:     A Cargo.toml
+JJ:     A src/main.rs
+JJ:
+JJ: Lines starting with "JJ:" (like this one) will be removed.
